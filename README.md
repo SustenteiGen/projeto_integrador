@@ -60,5 +60,5 @@ Bem Vindos ao GitHub do SUSTENTEI!🛒
   <hr>
   <p><h3> • Dicionário de Dados
   <br><br>
-  <img width="1300px" src="https://i.imgur.com/JfcFsJu.png"/>
+  <img width="1500px" src="https://i.imgur.com/JfcFsJu.png"/>
 </div>
