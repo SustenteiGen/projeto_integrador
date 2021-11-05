@@ -24,26 +24,26 @@ Bem Vindos ao GitHub do SUSTENTEI!🛒
 ### **Este projeto está sendo desenvolvido por um grupo de cinco integrantes, sendo eles:**
 
 ## Diego Oliveira Britto
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/DiegoOBritto)](https://github.com/DiegoOBritto)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
 
 ## Fernando Fernandes Cardoso
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/FernandoFCardoso)](https://github.com/FernandoFCardoso)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
 
 ## Maria Carolina S. N. Xavier
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-carolina-s-n-xavier-05340b191/)](https://www.linkedin.com/in/maria-carolina-s-n-xavier-05340b191/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/mcsnsx)](https://github.com/mcsnsx)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
 
 ## Talita Rosalina Ribeiro
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talita-r-b5a105186/)](https://www.linkedin.com/in/talita-r-b5a105186/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/talitarribeiro)](https://github.com/talitarribeiro)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
 
 ## Vinicius Eidi Sato
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-eidi-sato-6868781a0/)](https://www.linkedin.com/in/vinicius-eidi-sato-6868781a0/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/eidisato)](https://github.com/eidisato)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)
+
