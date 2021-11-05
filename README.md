@@ -1,7 +1,7 @@
 ## Olá Pessoal!
 Bem Vindos ao GitHub do SUSTENTEI!🛒
 <p align="center">
-  <img width="250px" src="https://i.imgur.com/DDKO8Up.jpg" title="source: imgur.com"/>
+  <img width="250px" src="https://i.imgur.com/cYur8tj.png" title="source: imgur.com"/>
 </p>
   <h3>
   <p><b>Projeto Integrador Generation Brasil - < /SUSTENTEI ></b></p>
