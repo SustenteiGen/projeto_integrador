@@ -47,3 +47,18 @@ Bem Vindos ao GitHub do SUSTENTEI!🛒
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-eidi-sato-6868781a0/)](https://www.linkedin.com/in/vinicius-eidi-sato-6868781a0/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/eidisato)](https://github.com/eidisato)
 
+<br>
+
+<div align = "center">
+  <hr>
+  <h3>DOCUMENTAÇÃO</div>
+  <hr>
+<div align = "left">
+  <p><h3> • Diagrama Entidade Relacionamento
+  <br><br>
+  <img width="1300px" src="https://i.imgur.com/6rpDSKd.png"/>
+  <hr>
+  <p><h3> • Dicionário de Dados
+  <br><br>
+  <img width="1300px" src="https://i.imgur.com/JfcFsJu.png"/>
+</div>
